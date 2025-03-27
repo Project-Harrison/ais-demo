@@ -1,7 +1,7 @@
 
 # Automated Identification Systems (AIS) Data: JSON Dataset
 
-This repository contains a curated JSON dataset of AIS (Automated Identification Systems) data from 10,000 vessels, reduced from an original dataset of over 42,000 vessels. AIS data is used for understanding vessel traffic, maritime navigation, and global shipping patterns. The purpose of this dataset is for training.
+This repository contains a curated JSON dataset of AIS (Automated Identification Systems) data from 10,000 vessels. AIS data is used for understanding vessel traffic, maritime navigation, and global shipping patterns. The purpose of this dataset is for training.
 
 ![AIS Data Visualization](static/map.png)
 
